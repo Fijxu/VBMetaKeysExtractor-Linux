@@ -15,7 +15,7 @@ Ex:
 
 #### System requirements:
 
-1) .NET Runtime 6.0 or 7.0 (And if you are going to compile it yourself, install .NET SDK 6.0 or 7.0)
+1) None, ready to use in any distro (If you are going to compile it yourself, install .NET SDK 6.0 or 7.0)
 
 #### How to compile it?
 
